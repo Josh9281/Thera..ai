@@ -1,3 +1,4 @@
+#Thera.ai
 ## Project Description
 With rising stress, anxiety, and depression among high school students, many face challenges that impact their academic performance and overall well-being. However, the reality is that many schools lack the necessary resources to effectively address these issues, and students often face barriers to accessing available resources, particularly due to financial constraints. The need for accessible, scalable solutions has never been more urgent. So, to tackle this issue, we introduce to you, **Thera**.
 
