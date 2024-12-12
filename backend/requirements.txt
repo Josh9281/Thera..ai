@@ -1,0 +1,6 @@
+uagents==0.17.1
+transformers==4.47.0
+tensorflow==2.18.0
+tf-keras==2.18.0
+sentencepiece==0.2.0
+pandas==2.2.3
